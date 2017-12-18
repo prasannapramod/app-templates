@@ -1,3 +1,5 @@
+#### This repos has been migrated to : https://github.com/DataTorrent/moodi
+
 ### DataTorrent Application Templates
 Many businesses today rely on large volumes and variety of data to make critical business decisions in a real-time environment. For big data applications, businesses need to combine transactional data with structured, semi-structured and unstructured data to gain holistic and deeper insights. Additionally, for timely insights, large amounts of data has to be continuously ingested into their Hadoop data lakes and other destinations. One of the biggest challenges even before data can be analyzed is the data ingestion itself.
 
